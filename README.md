@@ -1,12 +1,21 @@
 # price-detection
 
-class.txt - файл с классами
-
-train_razmetka, test_razmetka, valid_razmetka - папки с доработанными разметками
-
-best.pt = веса модели
+!!!СМОТРИТЕ ВЕТКУ "main2", ПОЖАЛУЙСТА!! (ветки main не существует)
 
 __________________________________________________
 
-Google Colaboratory: https://colab.research.google.com/drive/1xKNRwpBD52vxMiXqlsZ4vhedAeYwyJ0U?usp=sharing
+
+Report_M1.ipynb, Report_M1.html - Модуль А
+
+Report_M2.ipynb, Report_M2.html - Модуль Б
+
+requirements.txt - зависимости проекта
+
+test, trsin, valid - папки с данными. Актуальная разметка в папке "labels", папки с исходными разметками переименованы.
+
+test_box - папка с фотографиями для тест-кейсов
+
+преза.pptx - презентация к модулю В
+__________________________________________________
+
 
